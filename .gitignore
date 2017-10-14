@@ -1,0 +1,5 @@
+/vendor
+.env
+adminer.php
+/public/adminer.php
+/storage/logs/*
